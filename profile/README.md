@@ -2,7 +2,7 @@
 
 [**TC-No.com**](https://tc-no.com), yazılım geliştirme ve test süreçlerinde kullanılmak üzere hazırlanmış, **TC Kimlik Numarası üretme ve doğrulama** işlemlerini kolaylaştıran çevrimiçi bir araçtır.
 
-Site üzerinden hızlıca [**tc üret**](https://tc-no.com), [**tc no üret**](https://tc-no.com), [**sahte tc**](https://tc-no.com) ve [**tckn üret**](https://tc-no.com) işlemlerini gerçekleştirebilirsiniz. TC kimlik numaraları, resmi algoritmalara uygun şekilde oluşturulmaktadır ve herhangi bir gerçek kişiye ait değildir.
+Site üzerinden hızlıca [**tc üret**](https://tc-no.com), [**tc no üret**](https://tc-no.com), [**rastgele tc**](https://tc-no.com) ve [**tckn üret**](https://tc-no.com) işlemlerini gerçekleştirebilirsiniz. TC kimlik numaraları, resmi algoritmalara uygun şekilde oluşturulmaktadır ve herhangi bir gerçek kişiye ait değildir.
 
 ## Özellikler
 
